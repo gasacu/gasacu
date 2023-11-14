@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gsacuianu" target="blank"><img src="https://img.shields.io/twitter/follow/gsacuianu?logo=twitter&style=for-the-badge" alt="gsacuianu" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **gsacuianu@gmail.com**
 
