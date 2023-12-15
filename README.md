@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/C4E16AQGsLRNev-0kMA/profile-displaybackgroundimage-shrink_350_1400/0/1647186815519?e=1705536000&v=beta&t=pUZAxZO8wdbOLf2dE12ZoewrHWrHNzwsVmjL06ala-U](https://images.unsplash.com/photo-1520453803296-c39eabe2dab4?q=80&w=1650&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![MasterHead](https://scontent.fotp8-1.fna.fbcdn.net/v/t39.30808-6/307565809_3252961058278466_5553515775925227646_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=lThiJQ_jbQYAX9f0YQv&_nc_ht=scontent.fotp8-1.fna&oh=00_AfDr8_jRjsYc58eN-i7n_DkL1Sve4jP36h2AVRNHiGadUA&oe=6582016D)
 <h1 align="center">Hi 👋, I'm Gabriel Sacuianu</h1>
 <h3 align="center">A passionate software developer.</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhcWl4MzlzOWZiN3BscXRheTZxMDJ3cGc5cWJtZnNhaTBncXVxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
