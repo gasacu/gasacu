@@ -1,11 +1,7 @@
 ![MasterHead](https://scontent.fotp8-1.fna.fbcdn.net/v/t39.30808-6/307565809_3252961058278466_5553515775925227646_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=lThiJQ_jbQYAX9f0YQv&_nc_ht=scontent.fotp8-1.fna&oh=00_AfDr8_jRjsYc58eN-i7n_DkL1Sve4jP36h2AVRNHiGadUA&oe=6582016D)
 <h1 align="center">Hi 👋, I'm Gabriel Sacuianu</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">A passionate Software Developer.</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhcWl4MzlzOWZiN3BscXRheTZxMDJ3cGc5cWJtZnNhaTBncXVxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gasacu&label=Profile%20views&color=0e75b6&style=flat" alt="gasacu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gsacuianu" target="blank"><img src="https://img.shields.io/twitter/follow/gsacuianu?logo=twitter&style=for-the-badge" alt="gsacuianu" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
