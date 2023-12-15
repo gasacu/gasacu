@@ -1,4 +1,4 @@
-![MasterHead](https://scontent.fotp8-1.fna.fbcdn.net/v/t39.30808-6/307565809_3252961058278466_5553515775925227646_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=lThiJQ_jbQYAX9f0YQv&_nc_ht=scontent.fotp8-1.fna&oh=00_AfDr8_jRjsYc58eN-i7n_DkL1Sve4jP36h2AVRNHiGadUA&oe=6582016D)
+![MasterHead](https://github.com/gasacu/advertising/blob/master/og-image.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Gabriel Sacuianu</h1>
 <h3 align="center">A passionate Software Developer.</h3>
