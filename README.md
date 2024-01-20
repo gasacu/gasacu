@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/gasacu/portfolio/blob/master/images/og-image.jpg?raw=true)
+
 
 <h1 align="center">Hi 👋, I'm Gabriel Sacuianu</h1>
 <h3 align="center">A passionate Software Developer.</h3>
