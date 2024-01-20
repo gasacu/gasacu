@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel Sacuianu</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
-<img align="right" alt="Coding" title="hey, I'm coding..." width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhcWl4MzlzOWZiN3BscXRheTZxMDJ3cGc5cWJtZnNhaTBncXVxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
+<img align="right" alt="Coding" title="hey, I'm coding![image](https://github.com/gasacu/gasacu/assets/101790506/b7ca6854-fdd9-4d6b-b2b2-eb08388a8793)
+" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhcWl4MzlzOWZiN3BscXRheTZxMDJ3cGc5cWJtZnNhaTBncXVxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 - 🌱 I’m currently learning **JavaScript**
 - 🔭 I’m currently working on **My Portfolio**
