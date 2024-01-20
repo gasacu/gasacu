@@ -24,7 +24,8 @@
   <!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./images/vscode.png" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="![vscode](https://github.com/gasacu/gasacu/assets/101790506/6a5599fe-26e8-4dd6-a72e-a9f10b845171)
+" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
 
