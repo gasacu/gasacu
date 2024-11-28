@@ -21,8 +21,8 @@
   <a href="https://www.sqlservertutorial.net/" target="_blank" rel="noreferrer" title="SQL Server"> <img src="https://storage.subs.noventiq.com/public/images/market_setting/logotype/81859/SQL1.png" alt="sqlserver" width="40" height="40"/> </a>
    <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer" title="VSCode"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/community" target="_blank" rel="noreferrer" title="Figma"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40" height="40"/> </a> 
-<!--  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png" alt="angular" width="40" height="40"/> </a>
  
 </p>
 
